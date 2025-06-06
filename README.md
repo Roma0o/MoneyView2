@@ -26,7 +26,7 @@ O **MoneyView-v2** é uma versão aprimorada do sistema de gerenciamento finance
 - Refatoração de classes DAO, lógica de negócios e interface gráfica para melhorar organização e manutenibilidade
 
 ## 👨‍💻 Desenvolvedor
-- [Seu Nome Aqui]
+- Eu mesmo 0/
 
 ## 🎯 Funcionalidades do Sistema
 - Tela de login e cadastro de usuários  
@@ -50,4 +50,4 @@ O **MoneyView-v2** é uma versão aprimorada do sistema de gerenciamento finance
 - `util/` — Utilitários e helpers
 
 ## 📌 Considerações
-Este projeto foi desenvolvido como parte de uma atividade de refatoração com foco em qualidade de código, seguindo recomendações do curso. Embora sua estrutura base seja similar à versão anterior, o foco principal aqui está na **qualidade do design de software**.
+Este projeto foi desenvolvido como parte de uma atividade de refatoração com foco em qualidade de código, seguindo recomendações de um curso técnico que estou fazendo. Embora sua estrutura base seja similar à versão anterior, o foco principal aqui está na **qualidade do design de software**.
