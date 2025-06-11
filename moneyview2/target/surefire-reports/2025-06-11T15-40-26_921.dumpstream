@@ -1,0 +1,5 @@
+# Created at 2025-06-11T15:40:27.073
+Boot Manifest-JAR contains absolute paths in classpath 'D:\Coding\Cursos\SENAC\uc15 (Projeto integrador 2) Mod B\Etapa 6\moneyview2\target\test-classes'
+Hint: <argLine>-Djdk.net.URLClassPath.disableClassPathURLCheck=true</argLine>
+'other' has different root
+
